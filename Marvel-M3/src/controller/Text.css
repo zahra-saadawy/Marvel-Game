@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@1,700&display=swap');
+
+
+#Marvel{
+	-fx-font-size: 150;
+	-fx-text-alignment: center;
+	-fx-text-fill : #eb0c0c;
+	font-family: 'Marvel', sans-serif;
+	-fx-font-family: 'Marvel', sans-serif;
+	-fx-background-color: '#008000';
+}
+
